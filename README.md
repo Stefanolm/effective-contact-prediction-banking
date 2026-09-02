@@ -58,17 +58,17 @@ La **Red Neuronal** obtuvo el mejor desempeño (AUC 0.81), seguida de **Random F
 ## Estructura del repositorio
 
 ```
-├── SGL\_Y\_DBP\_1CD.ipynb   # Notebook con limpieza, EDA, balanceo y modelado
+├── Predicción_script.ipynb   # Notebook con limpieza, EDA, balanceo y modelado
 └── README.md              # El dataset original no se incluye (ver nota en "Datos")
 ```
 
 ## Cómo ejecutarlo
 
 ```bash
-git clone https://github.com/Stefanolm/\[nombre-del-repo].git
+git clone https://github.com/Stefanolm/effective-contact-prediction-banking.git
 cd \[nombre-del-repo]
 pip install -r requirements.txt   # pandas, numpy, scikit-learn, imbalanced-learn, matplotlib, seaborn
-jupyter notebook SGL\_Y\_DBP\_1CD.ipynb
+jupyter notebook Predicción_script.ipynb
 ```
 
 ## Herramientas utilizadas
