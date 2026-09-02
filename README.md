@@ -2,7 +2,7 @@
 
 Modelo predictivo para estimar la probabilidad de lograr un **contacto telefónico efectivo** con clientes de un banco, a partir de su historial de gestiones comerciales, canal de contacto, ubicación geográfica y nivel de ingresos — con el fin de priorizar la asignación de recursos de televentas hacia los clientes con mayor probabilidad de éxito.
 
-**Curso:** Aprendizaje Estadístico — Universidad Nacional de Ingeniería (UNI)
+**Autor:** Stefano Giacomo Landa Morante — Universidad Nacional de Ingeniería (UNI)
 
 ## Datos
 
